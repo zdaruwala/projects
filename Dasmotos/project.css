@@ -1,0 +1,32 @@
+h1{
+	background-image: url(file:///Users/zdaruwala/Documents/projects/Dasmotos/pattern1.jpeg);
+	font-family: Helvetica;
+	font-size: 100px;
+	font-weight: bold;
+	text-align:center;
+}
+
+h2{
+	font-family:Helvetica;
+	font-size: 32px;
+	font-weight: bold;
+	color: white;
+}
+
+.brush{
+	background-color: mediumspringgreen;
+}
+
+.frame{
+	background-color: lightcoral;
+}
+
+.paint{
+	background-color: skyblue;
+}
+
+bold{
+	font-family:Helvetica;
+	color: blue;
+	font-weight:bold;
+}
